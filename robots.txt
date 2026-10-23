@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xn--plantypropertykrakw-i5b.pl/sitemap.xml

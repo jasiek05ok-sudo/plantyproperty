@@ -1,0 +1,10 @@
+{
+  "_info": "DANE DEMONSTRACYJNE – zastąp eksportem ofert z CRM IMO (patrz README.md).",
+  "offers": [
+    { "id": "DEMO-001", "title": "Jasne 3-pokojowe mieszkanie z balkonem", "transaction": "sprzedaz", "type": "Mieszkanie", "city": "Kraków", "district": "Krowodrza", "price": 899000, "area": 62.5, "rooms": 3, "description": "Po remoncie, z balkonem i miejscem w garażu. Blisko komunikacji i parku.", "photos": [] },
+    { "id": "DEMO-002", "title": "Dom z ogrodem w spokojnej okolicy", "transaction": "sprzedaz", "type": "Dom", "city": "Wieliczka", "district": "", "price": 1290000, "area": 148, "rooms": 5, "description": "Dom wolnostojący, działka 8 arów, garaż dwustanowiskowy.", "photos": [] },
+    { "id": "DEMO-003", "title": "Kawalerka przy Plantach – wynajem", "transaction": "wynajem", "type": "Mieszkanie", "city": "Kraków", "district": "Stare Miasto", "price": 3200, "area": 32, "rooms": 1, "description": "Umeblowana kawalerka w kamienicy, idealna dla singla lub pary.", "photos": [] },
+    { "id": "DEMO-004", "title": "Lokal usługowy na parterze", "transaction": "wynajem", "type": "Lokal użytkowy", "city": "Kraków", "district": "Kazimierz", "price": 7500, "area": 55, "rooms": 2, "description": "Witryna od strony ulicy, duży ruch pieszy.", "photos": [] },
+    { "id": "DEMO-005", "title": "Działka budowlana z miejscowym planem", "transaction": "sprzedaz", "type": "Działka", "city": "Zabierzów", "district": "", "price": 420000, "area": 1100, "rooms": null, "description": "Media w drodze, dojazd asfaltem, kształt regularny.", "photos": [] }
+  ]
+}
